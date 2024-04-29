@@ -8,4 +8,18 @@
     width: 50%;
     height: 100vh;
     background-color:cadetblue ;
+    color: white;
+}
+p{
+        color: chartreuse;
+}
+.pari{
+    background-color: darkgreen;
+    color: white;
+    border:none;
+}
+.dispari{
+    background-color: brown;
+    color:white;
+    border:none;
 }
